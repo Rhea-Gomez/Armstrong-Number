@@ -1,0 +1,14 @@
+D:\Training\Assignments\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Assignments\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.AssemblyInfoInputs.cache
+D:\Training\Assignments\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.AssemblyInfo.cs
+D:\Training\Assignments\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.csproj.CoreCompileInputs.cache
+D:\Training\Assignments\ArmstrongNumber\ArmstrongNumber\bin\Debug\net8.0\ArmstrongNumber.exe
+D:\Training\Assignments\ArmstrongNumber\ArmstrongNumber\bin\Debug\net8.0\ArmstrongNumber.deps.json
+D:\Training\Assignments\ArmstrongNumber\ArmstrongNumber\bin\Debug\net8.0\ArmstrongNumber.runtimeconfig.json
+D:\Training\Assignments\ArmstrongNumber\ArmstrongNumber\bin\Debug\net8.0\ArmstrongNumber.dll
+D:\Training\Assignments\ArmstrongNumber\ArmstrongNumber\bin\Debug\net8.0\ArmstrongNumber.pdb
+D:\Training\Assignments\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.dll
+D:\Training\Assignments\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\refint\ArmstrongNumber.dll
+D:\Training\Assignments\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.pdb
+D:\Training\Assignments\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.genruntimeconfig.cache
+D:\Training\Assignments\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ref\ArmstrongNumber.dll
